@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+.chess {
+  border: 2px solid black;
+  margin: 0 auto;
+  margin-top: 10%;
+}
+
+td {
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+  padding: 0;
+}
+
+.whitecol {
+  background-color: white;
+}
+
+.blackcol {
+  background-color: black;
+}
